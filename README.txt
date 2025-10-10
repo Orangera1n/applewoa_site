@@ -1,1 +1,3 @@
-Base repo: https://github.com/itsmichaelwest/LumiaWOATestSite
+site for AppleWOA
+
+Forked from https://github.com/WOA-Project/LumiaWOA
