@@ -1,3 +1,3 @@
-site for AppleWOA
+deprecated
 
-Forked from https://github.com/WOA-Project/LumiaWOA
+use https://github.com/AppleWOA/applewoa.github.io instead
